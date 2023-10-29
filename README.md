@@ -21,7 +21,6 @@ For the script to work correctly, you must make sure that you have yt-dlp and ff
 
 To add a description of how the script works to the README.md file on GitHub, you can create the following section:
 
-```markdown
 ## Instructions
 
 1. Make sure you have yt-dlp and ffmpeg installed on your computer. You can download them from the official websites:

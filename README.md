@@ -28,7 +28,7 @@ To add a description of how the script works to the README.md file on GitHub, yo
    - [yt-dlp Builds](https://github.com/yt-dlp/yt-dlp/releases)
    - [ffmpeg Builds](https://github.com/yt-dlp/FFmpeg-Builds/releases)
 
-2. Copy the contents of the [download-video.ps1](download-video.ps1) file to your computer.
+2. Copy the contents of the [download-video.ps1](yt-dlp.ps1) file to your computer.
 
 3. Run the script as follows:
 

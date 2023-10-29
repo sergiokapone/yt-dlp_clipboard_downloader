@@ -33,7 +33,7 @@ To add a description of how the script works to the README.md file on GitHub, yo
 3. Run the script as follows:
 
 ```powershell
-   ./download-video.ps1
+   ./yt-dlp.ps1
 ```
 4. The script will check the clipboard for a URL. If the URL is found, the script will download the video and save it to the downloads folder (``%downloads%``).
 
